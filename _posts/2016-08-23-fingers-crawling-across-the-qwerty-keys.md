@@ -1,13 +1,13 @@
 ---
-description: 'Fingers crawling across the QWERTY keys,'
-dateModified: '2016-08-23T23:41:53.847Z'
-datePublished: '2016-08-23T23:49:34.907Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-23T23:49:51.243Z'
 sourcePath: _posts/2016-08-23-fingers-crawling-across-the-qwerty-keys.md
+author: []
+via: {}
+dateModified: '2016-08-23T23:49:50.822Z'
+title: ''
+publisher: {}
+description: 'Fingers crawling across the QWERTY keys,'
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
