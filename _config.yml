@@ -17,6 +17,10 @@ author:
   email: adrian.dahlin@gmail.com
   name: Adrian Dahlin
 name: Adrian Dahlin
+navigation:
+  - name: School
+    url: cusp.nyu.edu
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/29d3f7b9-91d8-4f0a-a1c0-de1e21af0086.jpg
 title: Conversatin'
