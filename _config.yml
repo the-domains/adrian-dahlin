@@ -1,23 +1,14 @@
-layout_spectrum: 0.6586022966075689
+name: Adrian Dahlin
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/29d3f7b9-91d8-4f0a-a1c0-de1e21af0086.jpg
+layout_spectrum: 0.88557
 typography_spectrum: 0.3829326976556331
-color:
-  brandStrength: 0.5662612065207213
-  lightness: 0.7104604772757739
-  saturation: 0.5551977457944304
-  rhythmicContrast: 0.2899036086164415
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
 content_rating:
   adult: false
 author:
   email: adrian.dahlin@gmail.com
   name: Adrian Dahlin
   url: thegrid.ai/adrian-dahlin
-name: Adrian Dahlin
 navigation:
   - name: School
     url: cusp.nyu.edu
@@ -25,7 +16,29 @@ navigation:
   - name: Spotify
     url: 'https://open.spotify.com/user/127629676'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/29d3f7b9-91d8-4f0a-a1c0-de1e21af0086.jpg
 title: Conversatin'
 description: 'Brother, citizen, founder, musicmaker.'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  brandStrength: 0.5662612065207213
+  lightness: 0.7104604772757739
+  saturation: 0.5551977457944304
+  rhythmicContrast: 0.2899036086164415
+purpose: []
