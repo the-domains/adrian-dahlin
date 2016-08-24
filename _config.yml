@@ -1,6 +1,5 @@
-typography_spectrum: 0.5704077081754804
-content_rating:
-  adult: false
+layout_spectrum: 0.6586022966075689
+typography_spectrum: 0.3829326976556331
 color:
   brandStrength: 0.5662612065207213
   lightness: 0.7104604772757739
@@ -12,7 +11,8 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-layout_spectrum: 0.6586022966075689
+content_rating:
+  adult: false
 author:
   email: adrian.dahlin@gmail.com
   name: Adrian Dahlin
